@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://thebeerex.github.io/](https://thebeerex.github.io/)
 
+- 📝 I regularly write articles on [https://medium.com/@TheBeerex](https://medium.com/@TheBeerex)
+
 - 💬 Ask me about **Cyberpunk and D&D 5e**
 
 - ⚡ Fun fact **I'm a Dungeon Master working on my own setting**
